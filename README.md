@@ -12,16 +12,16 @@ These instructions will tell you how to clone and run the project on your comput
 
 You will need the following software and packages to run the project:
 
-Python 3
-Pip
-requests
-threading
-os
-sys
-termcolor
-time
-platform
-colorama
+- Python 3
+- Pip
+- requests
+- threading
+- os
+- sys
+- termcolor
+- time
+- platform
+- colorama
 
 (you can find this in requirements.txt file)
 
@@ -57,7 +57,7 @@ colorama
    ### 3. 🖥️🎯 Type the target site <br/>
    ![Enter the target site](https://i.hizliresim.com/d20yedp.png)
 
-   ### 4. 🎉✅ And success!! <br/>
+   ### 4. 🎉✅ And successfull!! <br/>
    ![Finished](https://i.hizliresim.com/gvc82o6.jpg)
 
 ## 🤝 Contribute
