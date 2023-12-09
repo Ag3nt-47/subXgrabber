@@ -1,0 +1,8 @@
+requests
+threading
+os
+sys
+termcolor
+time
+platform
+colorama
